@@ -27,13 +27,15 @@ Instead relying on rktlib plotting software the Python script is proposed in thi
 ### Installing
 
 git clone https://github.com/pietrzakmat/gps-accuracy-evaluator
+or 
+git clone git@github.com:pietrzakmat/gps-accuracy-evaluator.git
 
 ### Executing program
 
 * Navigate to cloned directory
 * Run
 ```
-./test.py
+./src/test.py
 ```
 
 ## Authors
