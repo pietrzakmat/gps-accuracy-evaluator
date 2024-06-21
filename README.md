@@ -26,7 +26,7 @@ Instead relying on rktlib plotting software the Python script is proposed in thi
  
 ### Installing
 
-git clone 
+git clone https://github.com/pietrzakmat/gps-accuracy-evaluator
 
 ### Executing program
 
